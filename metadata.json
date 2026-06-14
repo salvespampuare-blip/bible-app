@@ -1,0 +1,6 @@
+{
+  "name": "Bible Analysis",
+  "description": "An immersive Bible analysis and study platform with semantic offline-accessible search, AI-driven commentary, interactive reading plans, and rich TTS voice controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
